@@ -1,0 +1,4 @@
+¿Para qué sirve el comando npm init?
+R= Si ya tienes Node y npm, y deseas comenzar a construir tu proyecto, ejecuta el comando npm init . 
+Esto activará la inicialización de tu proyecto. 
+Este comando funciona como una herramienta para crear el archivo package.

@@ -1,0 +1,6 @@
+¿Cómo es que se instalan paquetes con yarn?
+R= yarn install
+¿Cómo es que se borran paquetes con yarn?
+R=yarn remove
+¿Hay algún equivalente en yarn que haga lo mismo que npm init?
+R=yarn init
